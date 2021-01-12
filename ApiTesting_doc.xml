@@ -27,4 +27,12 @@ Check all list of config command:> git config --list
 Inside folder “cd folder name”
 Command > git init
 
-=>
+=> File with 3 states
+UnTracked
+Staged
+Tracked
+Check git status using command:> git status
+File add to stage command:> git add “file name”
+File commit command:> git commit -m “message”
+
+=> Stage to unstage file
