@@ -1,0 +1,30 @@
+Date: 12-01-2021
+
+=> Git (local) and Github (in cloud)
+- Commit means stored code into the local repository (in system)
+- Push means stored code into the remote repository ()
+- Clone means stored code remote repository to local repository (for new member)
+- Other members is change in the code then his was commit changes into the local repository
+- Pull means we need to changes files (changes by other member) are updated in my local repository
+
+=> Github signup and login
+Link: https://github.com/login
+Create a new repository
+Download tools for github using command line
+https://cli.github.com/
+Git bash : https://git-scm.com/download/win
+Git CLI commands: https://cli.github.com/manual/
+Repository link: https://github.com/yudiz-ghanshyam/API_Testing.git
+Set username and email id in config file
+Username set command:> git config --global user.name “username”
+View change:> git config user.name
+Email id set command:> git config --global user.email “email”
+View change:> git config user.email
+Check all list of config command:> git config --list
+
+=> Create local repository
+>mkdir “test”
+Inside folder “cd folder name”
+Command > git init
+
+=>
